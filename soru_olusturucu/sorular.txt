@@ -1,0 +1,11 @@
+yazar,adlı yazarın özgürlük alayışınedir?.Bir eserinden yola çıkarak anlatınız.
+yazar,adlı yazar döneminin özeliklerini okuyucuya yansıtmışmıdır ?
+yazar,adlı yazarın bir eserinden yola çıkarak edebi anlayışı hakkında bilgilendirme yapınız.
+roman,adlı romanının hangi vak'a parçalarında karakter özgürlülüğüyle karşılaşır?
+roman,adlı romanını mekan bakımından inceleyiniz.
+roman,adlı eserinde okuyucuya vermek istediği mesaj nedir ?
+şiir,adlı şairin bir şiirinden yola çıkarak edebi anlayışı hakkında bilgilenderime yapınız.
+şiir,adlı eserinde okuyucuya vermek istediği mesaj nedir ?
+hikaye,adlı hikayesini mekan bakımından inceleyiniz.
+hikaye,adlı hikayesinin hangi vak'a parçalarında karakter özgürlülüğüyle karşılaşır?
+hikaye,adlı eserinde okuyucuya vermek istediği mesaj nedir ?
